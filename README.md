@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rishab 👋
 
-<!--
-**rishabshetty31-bot/rishabshetty31-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third year Data Science student at Simon Fraser University (Vancouver, BC). I'm building data analytics and data engineering projects with SQL Server and Python.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** SQL, Python, R, C++
+- **Data:** SQL Server, data warehousing, data quality
+- **Tools:** T-SQL, GitHub, Mermaid, VSCode, RStudio, Jupyter
+
+## Featured project
+
+### 📦 Parcel Delivery Performance Warehouse
+
+A learning project that organizes synthetic parcel shipment and tracking data into a SQL Server warehouse, then uses SQL queries to explore delivery performance.
+
+- Bronze → Silver → Gold warehouse layers
+- Six synthetic CSV sources and a shipment-level fact table
+- Automated data checks and 12 SQL analysis queries
+
+[View the project](https://github.com/rishabshetty31-bot/Parcel-Delivery-Warehouse) · [Setup guide](https://github.com/rishabshetty31-bot/Parcel-Delivery-Warehouse/blob/main/docs/SETUP_AND_RUN.md)
+
+**Stack:** SQL Server · Python · T-SQL · CSV
