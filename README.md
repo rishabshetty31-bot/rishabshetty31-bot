@@ -18,6 +18,4 @@ A learning project that organizes synthetic parcel shipment and tracking data in
 - Six synthetic CSV sources and a shipment-level fact table
 - Automated data checks and 12 SQL analysis queries
 
-[View the project](https://github.com/rishabshetty31-bot/Parcel-Delivery-Warehouse) · [Setup guide](https://github.com/rishabshetty31-bot/Parcel-Delivery-Warehouse/blob/main/docs/SETUP_AND_RUN.md)
-
-**Stack:** SQL Server · Python · T-SQL · CSV
+[View the project](https://github.com/ShettygariRishab/Parcel-Delivery-Warehouse) · [Setup guide](https://github.com/ShettygariRishab/Parcel-Delivery-Warehouse/blob/main/docs/SETUP_AND_RUN.md)
